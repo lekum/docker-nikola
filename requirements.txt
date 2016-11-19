@@ -1,0 +1,3 @@
+nikola==7.8.1
+markdown
+webassets
